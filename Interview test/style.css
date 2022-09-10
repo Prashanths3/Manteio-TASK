@@ -1,0 +1,114 @@
+.a1{
+			background-color: lightgreen;
+			background-repeat: no-repeat;
+			background-position: right 80px center;
+			height: 400px;
+		}
+		.a2{
+			top: 50px;
+			left: 100px;
+			position: absolute;
+		}
+		.b1,.b2,.b3,.b4{
+			/*background-color: lightsteelblue;*/
+			height: 415px;
+			border-color: blanchedalmond;
+			border: solid silver;
+			border-radius: 5px 5px 5px 5px;
+		}
+		.c1,.c2,.c3,.c4{
+			background-color: lightgrey;
+			height: 260px;
+		}
+		.e1,.e2,.e3,.e4{
+			background-color: lightpink;
+			height: 270px;
+		}
+		.i1{
+			color: green;
+			font-size: 20px;
+		}
+		.i2{
+		background-color: green;
+		height: 30px;
+		width: 180px;
+		border-radius: 20px;
+		float: right;
+		color: white;
+		text-align: left;
+	}
+	.i3{
+		background-color: 	#C0C0C0;
+		height: 30px;
+		width: 310px;
+		border-radius: 20px;
+		float: right;
+		color: black;
+		text-align: left;
+	}
+	.i4{
+		background-color: 	#C0C0C0;
+		height: 30px;
+		width: 210px;
+		border-radius: 20px;
+		float: right;
+		color: black;
+		text-align: left;
+	}
+.i5{
+		background-color: 	#C0C0C0;
+	}
+	.checked {
+  color: orange;
+}
+.i6{
+	padding: 50px;
+}
+.i7{
+	padding: 50px;
+}
+.j1{
+			background-color: #FFFDD0;
+			background-repeat: no-repeat;
+			background-position: right 80px center;
+			height: 500px;
+		}
+.j2{
+			text-align: center;
+			background-image: url("Assets/Summer sale.png");
+			background-repeat: no-repeat;
+			background-position: left; 25px center;
+			height: 480px;
+			width: 100%;
+			/*padding-top: 50px;
+			padding-bottom: 20px;
+			padding-right: 30px;
+			padding-right: 60px;*/
+		}
+#l1,#l2,#l3,#l4,#l5{ border-radius: 10px;
+	 box-shadow: 2px 2px #888888;
+		
+	}
+.m1{ background-color: #EAF2F8; }
+
+/*.cen{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}*/
+
+.z1{
+	background-color:black;
+	float:left;
+	margin:5px;
+	padding: 5px;
+	width:100%;   
+	height:35px;
+	color:white;
+	
+	/*font-weight: normal;
+	display: inline-block;*/ 
+	bottom: 0;
+	left: 0;
+}
